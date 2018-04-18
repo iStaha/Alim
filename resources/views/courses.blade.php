@@ -59,7 +59,7 @@
                                                        
                                                     </ul>
                                                     <div class="tg-themeposttitle">
-                                                        <h3><a href="/cour/{{$links->title}}">{{ $links->title}}</a></h3>
+                                                        <h3><a href="javascript:void(0);">{{ $links->title}}</a></h3>
                                                     </div>
                                                     <ul class="tg-matadata">
                                                         <li>
